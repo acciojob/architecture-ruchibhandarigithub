@@ -4,8 +4,11 @@ body{
 	margin:0 auto;
 }
 .first{
-	max-width:200px;
+   width:200px;
 }
 .middle{
 	width:600px;
+}
+img{
+	width:100%;
 }
